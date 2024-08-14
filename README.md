@@ -11,10 +11,10 @@
 
 - Herramientas y tecnologías: **Visual Studio Code, Moodle y WordPress**
 
+- 📫 Cómo contactarme: **nicolasgondob@gmail.com**
+  
 - 🌐 [Mi página web](https://ngonzz.github.io/portfolio-2/)
 
-
-- 📫 Cómo contactarme: **nicolasgondob@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
