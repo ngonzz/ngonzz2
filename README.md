@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Nicolás González</h1>
 <h3 align="center">Soy un estudiante de Informática de Galicia, España.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngonzz&label=Profile%20views&color=0e75b6&style=flat" alt="ngonzz" /> </p>
 
 
 - 🔭 Actualmente estoy estudiando en **IES Ramón Mª Aller Ulloa**
