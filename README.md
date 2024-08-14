@@ -9,11 +9,14 @@
 
 - 🌱 He realizado FCT en **O Informático**
 
-- Herramientas y tecnologías: **Visual Studio Code, Moodle y WordPress**
-
 - 📫 Cómo contactarme: **nicolasgondob@gmail.com**
   
 - 🌐 [Mi página web](https://ngonzz.github.io/portfolio-2/)
+
+## 🛠️ Habilidades
+- Lenguajes de programación: HTML y CSS
+- Herramientas y tecnologías: Visual Studio Code, Moodle y WordPress
+- Nivel Básico en Desarrollo Web
 
 
 <h3 align="left">Connect with me:</h3>
