@@ -37,5 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngonzz&show_icons=true&theme=tokyonight" alt="ngonzz" /></p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
