@@ -9,7 +9,7 @@
 
 - 📌 He realizado el **Ciclo Medio de SMR**
 
-- 🌱 He realizado FCT en **O Informático**
+- 🌱 He realizado FCT en [O Informático](https://maps.app.goo.gl/VXbNAjojGeT9C2jc9)
 
 - 📫 Cómo contactarme: **nicolasgondob@gmail.com**
   
