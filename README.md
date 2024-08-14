@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Nicolás González</h1>
 <h3 align="center">Soy un estudiante de Informática de Galicia, España.</h3>
 
-<p></p>
+<br>
 
 - 🔭 Actualmente estoy estudiando en **IES Ramón Mª Aller Ulloa**
 
