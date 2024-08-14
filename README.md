@@ -5,15 +5,14 @@
 
 - 🔭 Actualmente estoy estudiando en **IES Ramón Mª Aller Ulloa**
 
-- Lenguajes de programación: **HTML y CSS**
-
 - 📌 He realizado el **Ciclo Medio de SMR**
 
 - 🌱 He realizado FCT en **O Informático**
 
-- 🌐 Mi página web [https://ngonzz.github.io/portfolio-2/](https://ngonzz.github.io/portfolio-2/)
-
 - Herramientas y tecnologías: **Visual Studio Code, Moodle y WordPress**
+
+- 🌐 [Mi página web](https://ngonzz.github.io/portfolio-2/)
+
 
 - 📫 Cómo contactarme: **nicolasgondob@gmail.com**
 
