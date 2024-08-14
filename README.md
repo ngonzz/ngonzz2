@@ -9,11 +9,11 @@
 
 - 📌 He realizado el **Ciclo Medio de SMR**
 
-- 🌱 He realizado FCT en [O Informático](https://maps.app.goo.gl/VXbNAjojGeT9C2jc9)
+- 🌱 He realizado FCT en **[O Informático](https://maps.app.goo.gl/VXbNAjojGeT9C2jc9)**
 
 - 📫 Cómo contactarme: **nicolasgondob@gmail.com**
   
-- 🌐 [Mi página web](https://ngonzz.github.io/portfolio-2/)
+- 🌐 **[Mi página web](https://ngonzz.github.io/portfolio-2/)**
 
 ## 🛠️ Habilidades
 - Lenguajes de programación: HTML y CSS
