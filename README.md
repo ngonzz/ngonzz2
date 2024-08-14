@@ -2,6 +2,7 @@
 <h3 align="center">Soy un estudiante de Informática de Galicia, España.</h3>
 
 <br>
+
 ## 🚀 Sobre mí
 
 - 🔭 Actualmente estoy estudiando en **IES Ramón Mª Aller Ulloa**
